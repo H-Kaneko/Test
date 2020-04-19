@@ -1,1 +1,0 @@
-web: gunicorn apl_name : d6f101ok-test
